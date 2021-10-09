@@ -3,6 +3,10 @@ import 'package:flutter/material.dart';
 import 'package:sahabider_jiboni/display.dart';
 import 'package:sahabider_jiboni/hazrat_omor.dart';
 
+//Author : Nahin the Coder
+//Date : 09-10-2021
+
+
 void main() {
   runApp(MyApp());
 }
