@@ -37,12 +37,13 @@ String details = "হজরত ওমর (রা.) এর গোলাম হজ
 
 class HazratOmar extends StatelessWidget {
 
-  final String imgGP ="https://jooinn.com/images/hill-view.jpg";
+  //final String imgGP;
+  final String imgGP="https://jooinn.com/images/hill-view.jpg";
 
-  // const HazratOmar({
-        //Key? key,
-       // required this.imgGP
-  // }) : super(key: key) ;
+   //const HazratOmar({
+    //    Key? key,
+   //     required this.imgGP
+   //}) : super(key: key) ;
 
 @override
   Widget build(BuildContext context) {
